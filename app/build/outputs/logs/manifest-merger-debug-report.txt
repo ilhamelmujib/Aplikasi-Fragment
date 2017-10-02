@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/0fcd578e1f2fe8c29b1a73057b45986639a79e39/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/b583be4658d49cdd196baec48c7ea6f53289fe40/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/7edf5890a5f8fad42c75cc848f7778a3197fb1a4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/b1f4f6a115c37713147dfa6fda2c43eed19055d0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/134d29228e20e18b8c384b35fb565dd81653da66/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/c9f9346a300356d392c517b4f97102b23b271d41/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/d717702d470d1847e0e6d8e3b4c1f50fffd63cbe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/e2a12e7c798b632c13ef4e96560050c067c76958/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/aa0dbf0928fc773d0049ddb26191d1079f2f6935/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/a4cc0a5e1c0de9ef5d9685aee80d88220a3d8612/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/2350dd29f82ca022c21045388553b61629975e62/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ilhamelmujib.aplikasifragment.MainActivity
+ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/0fcd578e1f2fe8c29b1a73057b45986639a79e39/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/b583be4658d49cdd196baec48c7ea6f53289fe40/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/7edf5890a5f8fad42c75cc848f7778a3197fb1a4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/5a064c66132b36c1097c843c77d96528697c556b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/b1f4f6a115c37713147dfa6fda2c43eed19055d0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/134d29228e20e18b8c384b35fb565dd81653da66/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/c9f9346a300356d392c517b4f97102b23b271d41/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/d717702d470d1847e0e6d8e3b4c1f50fffd63cbe/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/e2a12e7c798b632c13ef4e96560050c067c76958/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/aa0dbf0928fc773d0049ddb26191d1079f2f6935/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/a4cc0a5e1c0de9ef5d9685aee80d88220a3d8612/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/2350dd29f82ca022c21045388553b61629975e62/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/0fcd578e1f2fe8c29b1a73057b45986639a79e39/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/0fcd578e1f2fe8c29b1a73057b45986639a79e39/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/b583be4658d49cdd196baec48c7ea6f53289fe40/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/7edf5890a5f8fad42c75cc848f7778a3197fb1a4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/5a064c66132b36c1097c843c77d96528697c556b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/b1f4f6a115c37713147dfa6fda2c43eed19055d0/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/134d29228e20e18b8c384b35fb565dd81653da66/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/c9f9346a300356d392c517b4f97102b23b271d41/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/d717702d470d1847e0e6d8e3b4c1f50fffd63cbe/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/e2a12e7c798b632c13ef4e96560050c067c76958/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/aa0dbf0928fc773d0049ddb26191d1079f2f6935/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/a4cc0a5e1c0de9ef5d9685aee80d88220a3d8612/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/2350dd29f82ca022c21045388553b61629975e62/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/0fcd578e1f2fe8c29b1a73057b45986639a79e39/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/ilhamelmujib/.android/build-cache/0fcd578e1f2fe8c29b1a73057b45986639a79e39/output/AndroidManifest.xml:26:9-47

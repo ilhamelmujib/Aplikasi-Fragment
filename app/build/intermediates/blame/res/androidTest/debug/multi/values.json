@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/ilhamelmujib/Documents/AndroidStudioProjects/AplikasiFragment/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/ilhamelmujib/.android/build-cache/f34493d8b2eb5a00d73567da6e1fbd20f040fed0/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
